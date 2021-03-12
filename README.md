@@ -11,11 +11,11 @@
   <a href="https://www.linkedin.com/in/davi-dos-santos-costa-22687b207/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Davi dos Santos Costa LinkedIn Profile" height="30" width="30">
   </a>
-    <a href="https://www.linkedin.com/in/davi-dos-santos-costa-22687b207/">
+    <a href="https://app.rocketseat.com.br/me/davi-dos-santos-costa-04473">
     <img src="https://pbs.twimg.com/profile_images/1291682473592659968/sEorc6oh_400x400.jpg" alt="Davi dos Santos Costa Rocketseat Profile" height="30" width="30">
   </a>
   <a href="mailto:daviita1@hotmail.com">
-    <img src="https://image.flaticon.com/icons/png/512/281/281769.png" alt="Davi dos Santos Costa Rocketseat Profile" height="30" width="30">
+    <img src="https://image.flaticon.com/icons/png/512/281/281769.png" alt="email contact" height="30" width="30">
   </a>
 </p>
 

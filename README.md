@@ -27,11 +27,9 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-dosSantos&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Davi-dosSantos&theme=midnight-purple&show_icons=true" alt="Davi github stats.vercel" /></p>
 
-![](https://clipchamp.com/static/88bb8fc56d817b40f1772ad4e615eaae/Simpson-GIF.gif)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davi-dosSantos&theme=midnight-purple&show_icons=true)
+<p align="center"><img src="https://clipchamp.com/static/88bb8fc56d817b40f1772ad4e615eaae/Simpson-GIF.gif" alt="Simpsons gif" /></p>
 
 <h4 align="center">Visitor's count :eyes:</h4><p align="center"><img src="https://profile-counter.glitch.me/{Davi-dosSantos}/count.svg" alt="DSC :: Visitor's Count" /></p>
 ---

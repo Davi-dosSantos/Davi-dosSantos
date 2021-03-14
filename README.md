@@ -33,4 +33,4 @@
 <p align="center"><img src="https://clipchamp.com/static/88bb8fc56d817b40f1772ad4e615eaae/Simpson-GIF.gif" alt="Simpsons gif" /></p>
 
 <h4 align="center">Visitor's count :eyes:</h4><p align="center"><img src="https://profile-counter.glitch.me/{Davi-dosSantos}/count.svg" alt="DSC :: Visitor's Count" /></p>
----
+

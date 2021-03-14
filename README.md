@@ -1,4 +1,5 @@
-# Davi Costa
+
+<h1 align="center">Davi Costa</h1>
 
 <h2 align="center">about</h2>
 

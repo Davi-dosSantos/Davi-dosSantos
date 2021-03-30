@@ -3,7 +3,7 @@
 
 <h2 align="center">about</h2>
 
-<p align="center">BACK-END DEV , </p>
+<p align="center">FULL STACK DEV , </p>
 
 <h2 align="center">You can reach me at</h2>
 

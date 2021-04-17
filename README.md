@@ -3,7 +3,7 @@
 
 <h2 align="center">about</h2>
 
-<p align="center">FULL STACK DEV  </p><p align="center"> Learning in progress ... <B> Never stop learning  </p>
+<p align="center">Computer Engineering Student and beginner Full Stack developer  </p><p align="center"> Learning in progress ... <B> Never stop learning  </p>
 
 <h2 align="center">You can reach me at</h2>
 
@@ -21,8 +21,6 @@
 </p>
 
 <h2 align="center">Techs</h2>
-
-<p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
 
 <h4 align="center">Top langs :tongue:</h4>
 

@@ -1,9 +1,10 @@
 
-<h1 align="center">Davi Costa</h1>
+<h1 align="center">Davi dos Santos Costa</h1>
 
 <h2 align="center">about</h2>
 
-<p align="center">Computer Engineering Student and beginner Full Stack developer  </p><p align="center"> Learning in progress ... <B> Never stop learning  </p>
+<p align="center">Computer Engineering Student and beginner Full Stack developer  </p>
+<p align="center"> Learning in progress ... <B> Never stop learning  </p>
 
 <h2 align="center">You can reach me at</h2>
 

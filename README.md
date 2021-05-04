@@ -19,7 +19,7 @@
 
   <p align="center">
 
-    <a href="https://www.linkedin.com/in/davi-dos-santos-costa-22687b207/">
+   <a href="https://www.linkedin.com/in/davi-dos-santos-costa-22687b207/">
       <img src="https://img.shields.io/badge/-Linkedin-blue" alt="Davi dos Santos Costa LinkedIn Profile">
     </a>
     <a href="https://app.rocketseat.com.br/me/davi-dos-santos-costa-04473">
@@ -36,7 +36,7 @@
     </p>
     <h2 align="center">Techs</h2>
 
-    <p align="center">
+   <p align="center">
       <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JS icon">
       <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript" alt=TS icon">
       <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white"
@@ -45,15 +45,15 @@
       <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt="GitHub icon">
       <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3" alt="CSS3 icon">
 
-    </p>
+   </p>
 
-    <h2 align="center">Learning</h2>
-    <p align="center">
+   <h2 align="center">Learning</h2>
+   <p align="center">
       <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js" alt="NodeJs icon">
       <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" alt="React icon">
       <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" alt="MongoDB icon">
 
-    </p>
+   </p>
 
   </div>
 

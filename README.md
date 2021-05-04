@@ -1,6 +1,4 @@
 
-<h1 align="center">Davi dos Santos Costa</h1>
-
   <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm Davi
     dos Santos Costa</h1>
 

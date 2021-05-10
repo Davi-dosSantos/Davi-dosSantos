@@ -55,9 +55,9 @@
 
   <p align="left"><img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-dosSantos&langs_count=10&theme=tokyonight&layout=compact"
-      alt="AnhellO :: Top Langs" /></p>
+      alt="AnhellO :: Top Langs" />
 
-  <p align="right"><img
+  <img
       src="https://github-readme-stats.vercel.app/api?username=Davi-dosSantos&theme=midnight-purple&show_icons=true"
       alt="Davi github stats.vercel" /></p>
 

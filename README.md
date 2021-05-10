@@ -17,10 +17,10 @@
 
   <p align="center">
 
-   <a href="https://www.linkedin.com/in/davi-dos-santos-costa-22687b207/">
+   <a href="https://www.linkedin.com/in/davi-dos-santos-costa-22687b207/" target="_blank">
       <img src="https://img.shields.io/badge/-Linkedin-blue" alt="Davi dos Santos Costa LinkedIn Profile">
     </a>
-    <a href="https://app.rocketseat.com.br/me/davi-dos-santos-costa-04473">
+    <a href="https://app.rocketseat.com.br/me/davi-dos-santos-costa-04473" target="_blank">
       <img src="https://img.shields.io/badge/-Rocketseat%20Profile-purple"
         alt="Davi dos Santos Costa Rocketseat Profile">
     </a>

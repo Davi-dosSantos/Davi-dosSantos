@@ -53,13 +53,13 @@
 
   </div>
 
-  <p align="left"><img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-dosSantos&langs_count=10&theme=tokyonight&layout=compact"
-      alt="AnhellO :: Top Langs" />
-
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Davi-dosSantos&theme=midnight-purple&show_icons=true"
+      alt="Davi github stats.vercel" />
   <img
-      src="https://github-readme-stats.vercel.app/api?username=Davi-dosSantos&theme=midnight-purple&show_icons=true"
-      alt="Davi github stats.vercel" /></p>
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-dosSantos&langs_count=10&theme=tokyonight&layout=compact"
+      alt="AnhellO :: Top Langs" />    
+  </p>
 
   <h4 align="center">Visitor's count</h4>
   <p align="center"><img src="https://profile-counter.glitch.me/{Davi-dosSantos}/count.svg"

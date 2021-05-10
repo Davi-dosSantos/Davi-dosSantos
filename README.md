@@ -44,8 +44,6 @@
       <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3" alt="CSS3 icon">
 
    </p>
-
-   <h2 align="center">Learning</h2>
    <p align="center">
       <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js" alt="NodeJs icon">
       <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" alt="React icon">

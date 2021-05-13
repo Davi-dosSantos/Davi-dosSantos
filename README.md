@@ -6,7 +6,7 @@
   <h2 align="center">about</h2>
 
   <p align="center">
-    Welcome to my github , i am a student of computer at UNIFEI </p>
+    Welcome to my github , i am a student of computer engineering at UNIFEI </p>
   <p align="center">and beginner Full Stack developer</p>
 
 

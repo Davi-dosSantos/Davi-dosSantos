@@ -7,11 +7,7 @@
 
   <p align="center">
     Welcome to my github , i am a student of computer engineering at UNIFEI </p>
-  <p align="center">and beginner Full Stack developer</p>
-
-
-
-  <p align="center"> Never stop learning! </p>
+  <p align="center">and Software Developer</p>
 
   <h2 align="center">You can reach me at</h2>
 

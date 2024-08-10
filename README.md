@@ -2,12 +2,12 @@
     dos Santos Costa</h1>
 
   <img align="right" src="https://i.imgur.com/P2eHx9l.png" width="350" />
-  <h2 align="center">about</h2>
+  <h2 align="center">About</h2>
 
   <p align="center">
-    Welcome to my github , i am a student of computer engineering at UNIFEI </p>
-  <p align="center">and Software Developer</p>
+    Brazilian with a deep passion for software development. Actively participating in various projects, such as game development, extension projects, and team collaboration. Throughout my journey, I have led and     collaborated on initiatives involving programming, mobile development with C# and Unity, and I am currently working on my Final Year Project, focusing on microservices using Python.
 
+I have a keen interest in exploring new technologies, and I am always seeking to improve my knowledge and skills. I actively participate in extension projects and am looking for growth opportunities in backend development, with a focus on Python and .NET.
   <h2 align="center">You can reach me at</h2>
 
   <p align="center">
@@ -51,14 +51,21 @@
 
   </div>
 
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Davi-dosSantos&theme=midnight-purple&show_icons=true"
-      alt="Davi github stats.vercel" />
-  <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-dosSantos&langs_count=10&theme=tokyonight&layout=compact"
+ 
+
+ <h2 align="center">GitHub Status for Nerds :</h2>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Davi-dosSantos&count_private=true&show_icons=true&theme=dracula) 
+
+<img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-dosSantos&langs_count=10&theme=dracula&layout=compact"
       alt="AnhellO :: Top Langs" />    
   </p>
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Davi-dosSantos&theme=dracula" />
+  
+ ![Anurag's github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Davi-dosSantos&theme=dracula)
 
-  <h4 align="center">Visitor's count</h4>
-  <p align="center"><img src="https://profile-counter.glitch.me/{Davi-dosSantos}/count.svg"
-      alt="DSC :: Visitor's Count" /></p>
+<h2 align="center">GitHub Trophies :</h2> 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Davi-dosSantos&theme=dracula&no-frame=true&margin-w=4"/>
+</p>

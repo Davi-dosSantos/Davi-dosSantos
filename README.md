@@ -5,7 +5,7 @@
   <h2 align="center">About</h2>
 
   <p align="center">
-    Brazilian with a deep passion for software development. Actively participating in various projects, such as game development, extension projects, and team collaboration. Throughout my journey, I have led and     collaborated on initiatives involving programming, mobile development with C# and Unity, and I am currently working on my Final Year Project, focusing on microservices.
+    Brazilian with a deep passion for software development. Actively participating in various projects, such as game development, extension projects, and team collaboration. Throughout my journey, I have led and     collaborated on initiatives involving programming, mobile development with C# and Unity.
 
 I have a keen interest in exploring new technologies, and I am always seeking to improve my knowledge and skills. I actively participate in extension projects and am looking for growth opportunities in backend development, with a focus on JavaScript/TypeScript, Python and .NET.
   <h2 align="center">You can reach me at</h2>
